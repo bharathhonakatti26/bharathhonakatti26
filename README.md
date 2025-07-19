@@ -1,8 +1,32 @@
 <!-- Header Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a00ff,100:8a2be2&height=200&section=header&text=Hi%20there!%20I'm%20Bharath%20👋&fontSize=30&fontAlignY=40)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a00ff,100:8a2be2&height=200&section=header&text=Hi%20there!%20I'm%20Bharath%20Honakatti%20👋&fontSize=30&fontAlignY=40)
 
 <!-- Vibe Intro -->
 <p align="center">🚀 Passionate Developer | 🎓 Student | 🌱 Always Learning | 🧠 Vibe Coder</p>
+
+---
+
+<!-- About Me -->
+### 👋 About Me
+
+🧑‍💻 MERN Stack Developer in training, Cybersecurity enthusiast by obsession 🛡️  
+🕶️ I don't just browse the web — I inspect it, dissect it, and secure it.  
+🛠️ Code is my craft, the terminal is my playground.  
+  
+💥 Crafting clean UIs with React and Next.js  
+🌌 Building smart APIs with Node, Express & MongoDB  
+🔐 Breaking things ethically to understand how to protect them  
+  
+🐍 I speak Python fluently, but I debug in JavaScript.  
+🧪 Constantly experimenting — from pen testing to patching, from building to breaking.  
+  
+💡 Currently diving into:  
+- 🔗 Securing full-stack apps  
+- ⚙️ Auth flows & API security  
+- 🧬 Ethical hacking, CTFs & Linux kung-fu  
+  
+🎯 Mission: Build robust apps. Think like a hacker. Defend like a firewall.  
+🔓 Vibe Coder | MERN x CyberSec | Still a student, but already in the game ⚡
 
 ---
 
@@ -28,7 +52,8 @@
 
 ### 🖥️ Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 
 ---
 
