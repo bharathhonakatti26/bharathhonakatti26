@@ -57,9 +57,5 @@
 
 ---
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=bharathhonakatti26&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 <!-- Footer -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=100&section=footer)
