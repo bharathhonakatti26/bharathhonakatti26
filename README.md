@@ -11,7 +11,7 @@
 <!-- About Me -->
 ### 👋 About Me
 
-🧑‍💻 MERN Stack Developer in training, Cybersecurity enthusiast by obsession 🛡️  
+🧑‍💻 MERN Stack Developer, Cybersecurity enthusiast by obsession 🛡️  
 🕶️ I don't just browse the web — I inspect it, dissect it, and secure it.  
 🛠️ Code is my craft, the terminal is my playground.  
   
