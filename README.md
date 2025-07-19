@@ -1,5 +1,7 @@
 <!-- Header Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a00ff,100:8a2be2&height=200&section=header&text=Hi%20there!%20I'm%20Bharath%20Honakatti%20👋&fontSize=30&fontAlignY=40)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a00ff,100:8a2be2&height=200&section=header&text=Hi%20there!%20I'm%20Bharath%20Honakatti%20👋&fontSize=30&fontAlignY=40" />
+</p>
 
 <!-- Vibe Intro -->
 <p align="center">🚀 Passionate Developer | 🎓 Student | 🌱 Always Learning | 🧠 Vibe Coder</p>
@@ -83,4 +85,6 @@
 ---
 
 <!-- Footer -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=100&section=footer)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=100&section=footer" />
+</p>
