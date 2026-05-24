@@ -17,10 +17,6 @@ Cyber Security • Distributed Systems • Full Stack Development
     <img src="https://img.shields.io/badge/LinkedIn-Bharath%20Honakatti-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 
-  <a href="https://github.com/bharathhonakatti26">
-    <img src="https://img.shields.io/badge/GitHub-bharathhonakatti26-black?style=for-the-badge&logo=github"/>
-  </a>
-
   <a href="https://bharath-honakatti-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel"/>
   </a>
@@ -124,7 +120,6 @@ I enjoy building systems that combine:
 <p align="center">
   <a href="mailto:bharathhonakatti25@gmail.com">Email</a> •
   <a href="https://linkedin.com/in/bharathhonakatti26">LinkedIn</a> •
-  <a href="https://github.com/bharathhonakatti26">GitHub</a> •
   <a href="https://bharath-honakatti-portfolio.vercel.app">Portfolio</a>
 </p>
 
