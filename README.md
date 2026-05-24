@@ -1,4 +1,4 @@
-```md id="ghreadme9"
+md id="ghreadme9"
 <!-- Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7c3aed&height=220&section=header&text=Bharath%20Honakatti&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
@@ -133,4 +133,3 @@ I enjoy building systems that combine:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0f172a&height=120&section=footer"/>
 </p>
-```
